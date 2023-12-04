@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Eternal-nerd
-- 👀 I’m interested in web development, video game development, software development, machine learning, computer hardware, skateboarding, strength training, electring/acoustic guitar, and fishing.  
-- 🌱 I’m currently learning Rust, web dev/design, application dev/design, computer networking basics.  
-- 💞️ I’m looking to collaborate on anything
+- 👀 I’m interested in web frameworks, graphics programming, game engines, music, guitar, strength training, hiking
+- 🌱 I’m currently learning Vulkan, Django, Arduino
+- 💞️ I’m looking to collaborate on anything interesting
 - 📫 How to reach me: myles1551@gmail.com
 
 <!---
