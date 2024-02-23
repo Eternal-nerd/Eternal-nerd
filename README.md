@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Eternal-nerd
-- 👀 I’m interested in web frameworks, graphics programming, game engines, music, guitar, strength training, hiking
-- 🌱 I’m currently learning Vulkan, Django, Arduino
+- 👀 I’m interested in graphics programming, AVR programming, guitar, poetry, strength training, hiking
+- 🌱 I’m currently learning Vulkan, AVR, Django E-Commerce
 - 💞️ I’m looking to collaborate on anything interesting
 - 📫 How to reach me: myles1551@gmail.com
 
